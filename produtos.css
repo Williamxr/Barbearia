@@ -8,4 +8,5 @@ nav li {
 
 nav a {
 	text-transform: uppercase; //transforma todo nosso texto em maiúsculo
+	color: #000000;
 }
