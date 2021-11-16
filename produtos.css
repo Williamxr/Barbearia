@@ -7,6 +7,6 @@ nav li {
 }
 
 nav a {
-	text-transform: uppercase; //transforma todo nosso texto em maiúsculo
+	text-transform: uppercase;
 	color: #000000;
 }
