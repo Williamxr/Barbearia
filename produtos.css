@@ -46,6 +46,10 @@ nav a {
 	font-weight: bold;
 }
 
+.produto-descrição {
+	font-size: 18px;
+}
+
 .produto-preço {
 	font-size: 22px;
 	font-weight: bold;
